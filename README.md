@@ -37,11 +37,11 @@ Get a name and age from the user. Print out a message reporting the name and the
 ## writing out to a file with open() and write()
 
 ### Exercise 8
-Get a user's name, age, major, and year. Then print out each item to a file with one item per line.
+Get a user's name, age, major, and year. Then print out each item to a file called `mytext.txt` with one item per line.
 
 
 ## reading in a file with open() and readline()
 
 ### Exercise 9
-Read in the file mytext.txt line by line. Write out each line in all caps to a new file called newmytext.txt.
+Read in the file `mytext.txt` line by line. Print out each line in all caps. (Some lines are just numbers, so they will look the same.)
 
