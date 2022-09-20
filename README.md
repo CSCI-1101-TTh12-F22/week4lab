@@ -28,7 +28,7 @@ Get three numbers from the user then print them out with no spaces between them 
 ## f-strings
 
 ### Exercise 6
-Do exercise 4 using f-strings.
+Do exercise 5 using f-strings.
 
 ### Exercise 7
 Get a name and age from the user. Print out a message reporting the name and the user's age divided by 7 formatted to 2 decimal places.
