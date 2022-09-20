@@ -18,7 +18,7 @@ Print out the numbers divisible by 5 starting with 50 and going down to 5 (inclu
 ## print()
 
 ### Exercise 4
-Get a word from the user and print it out with asterisks between the letters. 
+Get a word from the user and print it out with an asterisk after each letter.
 
 ### Exercise 5
 Get three numbers from the user then print them out with no spaces between them and a question mark instead of a new line.
