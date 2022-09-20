@@ -33,17 +33,14 @@ Do exercise 4 using f-strings instead of the sep="*" argument in print.
 ### Exercise 7
 Get a name and age from the user. Print out a message reporting the name and the user's age divided by 7 formatted to 2 decimal places.
 
-### Exercise 7
 
-
-
-## writing out to a file
+## writing out to a file with open() and write()
 
 ### Exercise 8
 Get a user's name, age, major, and year. Then print out each item to a file with one item per line.
 
 
-## reading in a file
+## reading in a file with open() and readline()
 
 ### Exercise 9
 Read in the file mytext.txt line by line. Write out each line in all caps to a new file called newmytext.txt.
